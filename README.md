@@ -38,14 +38,14 @@ I sit at the intersection of **maritime operations**, **cybersecurity**, and **a
 
 > *These repos showcase the actual systems and documentation I've built — not just coursework or forks.*
 
-| Repo | What's Inside |
-|------|--------------|
-| [`jetense-sms-docs`](https://github.com/kelvinuduma/jetense-sms-docs) | 🚢 110-file ISM Code SMS — all 13 sections, 49 operational forms, editable sources |
-| [`jetense-cyber-sops`](https://github.com/kelvinuduma/jetense-cyber-sops) | 🔐 22 cybersecurity policy documents, audit report, remediation roadmap |
-| [`jetense-it-infrastructure`](https://github.com/kelvinuduma/jetense-it-infrastructure) | 🌐 42-file IT infrastructure portfolio — vessel networks, CCTV, Starlink, SATCOM |
-| [`jetense-opex-budget-flow`](https://github.com/kelvinuduma/jetense-opex-budget-flow) | 🐍 Python budget validation tool (385 lines, stdlib-only XLSX parser) |
-| [`SmartVessel-Training`](https://github.com/kelvinuduma/SmartVessel-Training) | 📡 Fleet software deployment — training framework, scripts, implementation tracking |
-| [`mouau-genetics-research`](https://github.com/kelvinuduma/mouau-genetics-research) | 🧬 MSc thesis data & analysis — *Carica papaya* genotypes, CRD statistical design |
+| Project | What's Inside |
+|---------|--------------|
+| 🚢 **JCL Safety Management System** | 110-file ISM Code SMS — all 13 sections, 49 operational forms, editable sources |
+| 🔐 **Cybersecurity Policy Suite** | 22 cybersecurity policy documents, audit report, remediation roadmap |
+| 🌐 **IT Infrastructure Portfolio** | 42-file IT infrastructure portfolio — vessel networks, CCTV, Starlink, SATCOM |
+| 🐍 **Budget Link Integrity Checker** | Python budget validation tool (385 lines, stdlib-only XLSX parser) |
+| 📡 **SmartVessel Deployment** | Fleet software deployment — training framework, scripts, implementation tracking |
+| 🧬 **Genetics Research** | MSc thesis data & analysis — *Carica papaya* genotypes, CRD statistical design |
 
 ### 🌱 Currently Working On
 
