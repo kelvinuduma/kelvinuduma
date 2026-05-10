@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kelvin Uduma
 
-**Maritime Digital Operations & Cybersecurity Lead** at [Jetense Consultants Limited](https://jetenseconsultants.com/) — building secure digital infrastructure for offshore fleets in Nigeria.
+**Maritime Digital Operations & Cybersecurity Lead** at [Jetense Consultants Limited](https://www.jetenseconsultantslimited.com) — building secure digital infrastructure for offshore fleets in Nigeria.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/kelvinuduma/">
