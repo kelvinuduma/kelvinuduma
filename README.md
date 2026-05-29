@@ -26,6 +26,14 @@ The thread connecting all of it: **maritime cybersecurity infrastructure** — G
 
 ---
 
+## Featured Build
+
+> **Microsoft Graph MCP Server** — 21-tool TypeScript MCP server integrating Microsoft Graph (Outlook, OneDrive, SharePoint, Teams, Power BI) with Claude. Prompt caching for 80–90% cost reduction on repeated context.
+>
+> [Case study →](https://kelvinuduma.github.io/#projects)
+
+---
+
 ## Published Research
 
 | Paper                                                                               | Journal                                              | Year |
