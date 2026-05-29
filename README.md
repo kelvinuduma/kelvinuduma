@@ -65,9 +65,9 @@ The thread connecting all of it: **maritime cybersecurity infrastructure** — G
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kelvinuduma&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="160">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=kelvinuduma&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="160">
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinuduma&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" height="160">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=kelvinuduma&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" height="160">
 </div>
 
 ---
