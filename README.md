@@ -96,7 +96,7 @@ _Additional original work in private repos: maritime Safety Management System (1
 
 ## Currently Building
 
-- Maritime cybersecurity SaaS — IMO-compliant GRC and vessel cyber risk management for the Gulf of Guinea
+- Maritime cybersecurity infrastructure — IMO cyber risk management, vessel GRC tooling, and OT/IT hardening for African shipping operators in the Gulf of Guinea
 - Open-science publication of MSc research data and R analysis pipeline
 - AI-native systems for African agricultural and maritime infrastructure
 
