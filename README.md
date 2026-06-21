@@ -17,11 +17,11 @@
 
 ---
 
-I work at the intersection of **maritime operations**, **cybersecurity**, **AI engineering**, and **plant science** — four disciplines that compound into one focus: building digital infrastructure for high-stakes African industries.
+I work at the intersection of **maritime operations**, **cybersecurity**, **AI engineering**, and **plant science**, four disciplines that compound into one focus: building digital infrastructure for high-stakes African industries.
 
 As **IT Lead and Company Security Officer at Jetense Consultants Limited**, I own cyber risk management, cybersecurity governance, and digital transformation across an offshore fleet in the Gulf of Guinea. As an **MSc researcher at MOUAU**, I published first-author work on _Carica papaya_ genetic diversity using morpho-chemical characterisation across 60 Nigerian accessions. As a builder, I ship TypeScript MCP servers, autonomous agents, and M365-integrated systems from a mid-tier laptop with no GPU.
 
-The thread connecting it: **maritime cybersecurity infrastructure** — GRC, OT/IT convergence, and vessel cyber risk management for operators the industry has historically under-served.
+The thread connecting it: **maritime cybersecurity infrastructure**, GRC, OT/IT convergence, and vessel cyber risk management for operators the industry has historically under-served.
 
 ---
 
