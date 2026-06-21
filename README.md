@@ -42,7 +42,6 @@ The thread connecting it: **maritime cybersecurity infrastructure**, GRC, OT/IT 
 | Repo | What's Inside |
 | --- | --- |
 | [microsoft-graph-mcp](https://github.com/kelvinuduma/microsoft-graph-mcp) | 20-tool TypeScript Model Context Protocol (MCP) server for MS Graph — Outlook, Calendar, OneDrive, Teams, SharePoint |
-| [mouau-genetics-research](https://github.com/kelvinuduma/mouau-genetics-research) | Raw field & lab data + R analysis scripts for the _C. papaya_ diversity study |
 | [kelvinuduma.github.io](https://github.com/kelvinuduma/kelvinuduma.github.io) | Personal portfolio site — maritime cybersecurity, GRC & AI engineering |
 
 ---
