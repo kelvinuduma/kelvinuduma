@@ -27,8 +27,8 @@ The thread connecting it: **maritime cybersecurity infrastructure**, GRC, OT/IT 
 
 ## Published Research
 
-| Paper | Journal | Year |
-| --- | --- | --- |
+| Paper                                                                               | Journal                                              | Year |
+| ----------------------------------------------------------------------------------- | ---------------------------------------------------- | ---- |
 | Genetic Diversity Assessment of _Carica papaya_ L. Accessions from Southern Nigeria | _Nigerian Journal of Horticultural Science_, Vol. 30 | 2026 |
 
 > Lead author · Morpho-chemical characterisation · 60 accessions across Abia, Imo & Rivers States · Biochemical heritability (Vitamin C, β-Carotene, Zinc) h² ≥ 90%
@@ -39,10 +39,11 @@ The thread connecting it: **maritime cybersecurity infrastructure**, GRC, OT/IT 
 
 ## What I Build
 
-| Repo | What's Inside |
-| --- | --- |
-| [microsoft-graph-mcp](https://github.com/kelvinuduma/microsoft-graph-mcp) | 20-tool TypeScript Model Context Protocol (MCP) server for MS Graph — Outlook, Calendar, OneDrive, Teams, SharePoint |
-| [kelvinuduma.github.io](https://github.com/kelvinuduma/kelvinuduma.github.io) | Personal portfolio site — maritime cybersecurity, GRC & AI engineering |
+| Repo                                                                          | What's Inside                                                                                                                                                                                                       |
+| ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ism-cyber-crosswalk](https://github.com/kelvinuduma/ism-cyber-crosswalk)     | **[Live tool »](https://kelvinuduma.github.io/ism-cyber-crosswalk/)** — 21 NIST CSF 2.0 subcategories mapped to ISM Code sections, IMO MSC.428(98) and MSC-FAL.1/Circ.3/Rev.3; gaps flagged, not smoothed over. MIT |
+| [microsoft-graph-mcp](https://github.com/kelvinuduma/microsoft-graph-mcp)     | 20-tool TypeScript Model Context Protocol (MCP) server for MS Graph — Outlook, Calendar, OneDrive, Teams, SharePoint                                                                                                |
+| [kelvinuduma.github.io](https://github.com/kelvinuduma/kelvinuduma.github.io) | Personal portfolio site — maritime cybersecurity, GRC & AI engineering                                                                                                                                              |
 
 ---
 
@@ -68,23 +69,23 @@ The thread connecting it: **maritime cybersecurity infrastructure**, GRC, OT/IT 
 
 ## Recognition
 
-| Credential | Issuer |
-| --- | --- |
-| Certified in Cybersecurity (CC) | ISC² |
-| Company Security Officer (ISPS) | Charkin Maritime |
-| WEF Global Shaper — Alumnus (ex-Vice Curator) | World Economic Forum — Port Harcourt Hub |
-| Climate Reality Leader | The Climate Reality Project |
-| NextGeneration Food Hero | CropLife International, 2022 |
-| BSc Agronomy — Second Class Upper (4.32/5.00 CGPA) | MOUAU, 2018 |
-| Vector Institute Scholar | ML for Black & Indigenous Students |
+| Credential                                         | Issuer                                   |
+| -------------------------------------------------- | ---------------------------------------- |
+| Certified in Cybersecurity (CC)                    | ISC²                                     |
+| Company Security Officer (ISPS)                    | Charkin Maritime                         |
+| WEF Global Shaper — Alumnus (ex-Vice Curator)      | World Economic Forum — Port Harcourt Hub |
+| Climate Reality Leader                             | The Climate Reality Project              |
+| NextGeneration Food Hero                           | CropLife International, 2022             |
+| BSc Agronomy — Second Class Upper (4.32/5.00 CGPA) | MOUAU, 2018                              |
+| Vector Institute Scholar                           | ML for Black & Indigenous Students       |
 
 ---
 
 ## Currently Working On
 
-- Maritime cyber risk management procedures (NIST CSF / IMO MSC.428(98) aligned)
-- Open-science publication of MSc research data and R analysis pipeline
-- AI-native systems for African maritime and agricultural infrastructure
+- Extending the [ISM ↔ NIST CSF crosswalk](https://github.com/kelvinuduma/ism-cyber-crosswalk) to BIMCO 5th ed, IACS UR E26/E27, and OCIMF TMSA3 / SIRE 2.0
+- A self-assessment / gap-scoring mode on top of the crosswalk dataset
+- AI-native systems for African maritime infrastructure — MCP servers and agent tooling on constrained hardware
 
 ---
 
