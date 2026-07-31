@@ -19,7 +19,7 @@
 
 I work at the intersection of **maritime operations**, **cybersecurity**, **AI engineering**, and **plant science**, four disciplines that compound into one focus: building digital infrastructure for high-stakes African industries.
 
-As **IT Lead and Company Security Officer at Jetense Consultants Limited**, I own cyber risk management, cybersecurity governance, and digital transformation across an offshore fleet in the Gulf of Guinea. As an **MSc researcher at MOUAU**, I published first-author work on _Carica papaya_ genetic diversity using morpho-chemical characterisation across 60 Nigerian accessions. As a builder, I ship TypeScript MCP servers, autonomous agents, and M365-integrated systems from a mid-tier laptop with no GPU.
+As **IT Lead and Company Security Officer at Jetense Consultants Limited**, I own cyber risk management, cybersecurity governance, and digital transformation across an offshore fleet in the Gulf of Guinea. As an **MSc researcher at MOUAU**, I'm first author on three 2026 papers in plant genetics — morpho-chemical and pomological characterisation of Nigerian _Carica papaya_ accessions, and genetic variability for yield in _Amaranthus hybridus_. As a builder, I ship TypeScript MCP servers, autonomous agents, and M365-integrated systems from a mid-tier laptop with no GPU.
 
 The thread connecting it: **maritime cybersecurity infrastructure**, GRC, OT/IT convergence, and vessel cyber risk management for operators the industry has historically under-served.
 
@@ -27,11 +27,15 @@ The thread connecting it: **maritime cybersecurity infrastructure**, GRC, OT/IT 
 
 ## Published Research
 
-| Paper                                                                               | Journal                                              | Year |
-| ----------------------------------------------------------------------------------- | ---------------------------------------------------- | ---- |
-| Genetic Diversity Assessment of _Carica papaya_ L. Accessions from Southern Nigeria | _Nigerian Journal of Horticultural Science_, Vol. 30 | 2026 |
+Lead author on three peer-reviewed papers (2026) from MSc work in Plant Breeding & Genetics at MOUAU — genetic characterisation of Nigerian crop germplasm for biofortification and yield improvement.
 
-> Lead author · Morpho-chemical characterisation · 60 accessions across Abia, Imo & Rivers States · Biochemical heritability (Vitamin C, β-Carotene, Zinc) h² ≥ 90%
+| Paper                                                                                                                                                              | Journal                                                       | Year |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------- | ---- |
+| Genetic Variability, Heritability, and Trait Associations for Yield Improvement in _Amaranthus hybridus_ (L.) Genotypes                                            | _Nigerian Journal of Horticultural Science_, 30(3)            | 2026 |
+| Characterization of Some Nigerian Pawpaw (_Carica papaya_ L.) Accessions Using Pomological Traits                                                                  | _Journal of Agriculture, Forestry and Fisheries_, 23(1), 1–10 | 2026 |
+| [Assessment of the Nutritional and Phytochemical Variability of Some Nigerian Pawpaw (_Carica papaya_ L.) Accessions](https://doi.org/10.82552/njhs.v30i1.158-171) | _Nigerian Journal of Horticultural Science_, 30(1), 158–171   | 2026 |
+
+> All three: **Uduma K. C.**, Edugbo R. E., Nwofia G. E. · 60 pawpaw accessions across Abia, Imo & Rivers States · Biochemical heritability (Vitamin C, β-Carotene, Zinc) h² ≥ 90%
 
 **ORCID:** [0000-0002-7091-8832](https://orcid.org/0000-0002-7091-8832)
 
