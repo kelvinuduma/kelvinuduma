@@ -45,7 +45,7 @@ Lead author on three peer-reviewed papers (2026) from MSc work in Plant Breeding
 
 | Repo                                                                          | What's Inside                                                                                                                                                                                                       |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ism-cyber-crosswalk](https://github.com/kelvinuduma/ism-cyber-crosswalk)     | **[Live tool »](https://kelvinuduma.github.io/ism-cyber-crosswalk/)** — 21 NIST CSF 2.0 subcategories mapped to ISM Code sections, IMO MSC.428(98) and MSC-FAL.1/Circ.3/Rev.3; gaps flagged, not smoothed over. MIT |
+| [ism-cyber-crosswalk](https://github.com/kelvinuduma/ism-cyber-crosswalk)     | **[Live tool »](https://kelvinuduma.github.io/ism-cyber-crosswalk/)** — 21 NIST CSF 2.0 subcategories mapped to ISM Code sections, IMO MSC.428(98), MSC-FAL.1/Circ.3/Rev.3 and BIMCO's _Guidelines on Cyber Security Onboard Ships_ (5th Ed); gaps flagged, not smoothed over. MIT |
 | [microsoft-graph-mcp](https://github.com/kelvinuduma/microsoft-graph-mcp)     | 20-tool TypeScript Model Context Protocol (MCP) server for MS Graph — Outlook, Calendar, OneDrive, Teams, SharePoint                                                                                                |
 | [kelvinuduma.github.io](https://github.com/kelvinuduma/kelvinuduma.github.io) | Personal portfolio site — maritime cybersecurity, GRC & AI engineering                                                                                                                                              |
 
@@ -87,8 +87,9 @@ Lead author on three peer-reviewed papers (2026) from MSc work in Plant Breeding
 
 ## Currently Working On
 
-- Extending the [ISM ↔ NIST CSF crosswalk](https://github.com/kelvinuduma/ism-cyber-crosswalk) to BIMCO 5th ed, IACS UR E26/E27, and OCIMF TMSA3 / SIRE 2.0
+- Hardening the [ISM ↔ NIST CSF crosswalk](https://github.com/kelvinuduma/ism-cyber-crosswalk) now that BIMCO 5th Ed is mapped — schema validation, CI checks and per-row source provenance — before extending it to IACS UR E26/E27 and OCIMF TMSA3 / SIRE 2.0
 - A self-assessment / gap-scoring mode on top of the crosswalk dataset
+- An automated production pipeline for fleet-software training video — scripted screen capture, narration synchronised to verified on-screen actions, and broadcast-standard loudness mastering with ffmpeg
 - AI-native systems for African maritime infrastructure — MCP servers and agent tooling on constrained hardware
 
 ---
