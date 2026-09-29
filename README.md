@@ -1,99 +1,129 @@
 <div align="center">
 
-<h1>Kelvin Chimaobi Uduma</h1>
+# Kelvin Chimaobi Uduma
 
-<p><strong>Maritime Cybersecurity &nbsp;·&nbsp; AI Engineering &nbsp;·&nbsp; Plant Science</strong></p>
-<p>Port Harcourt, Nigeria &nbsp;·&nbsp; WAT (UTC+1)</p>
+<strong>Maritime Cybersecurity · AI Engineering · Plant Science</strong>
 
-<a href="https://www.linkedin.com/in/kelvinuduma/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-&nbsp;
-<a href="https://orcid.org/0000-0002-7091-8832"><img src="https://img.shields.io/badge/ORCID-0000--0002--7091--8832-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
-&nbsp;
-<a href="https://kelvinuduma.github.io"><img src="https://img.shields.io/badge/Portfolio-4fc4ae?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-&nbsp;
-<a href="https://twitter.com/k_uduma"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+Port Harcourt, Nigeria · WAT (UTC+1)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvinuduma/)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7091--8832-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7091-8832)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4fc4ae?style=flat-square&logo=googlechrome&logoColor=white)](https://kelvinuduma.github.io)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/k_uduma)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kelvinuduma@gmail.com)
 
 </div>
 
 ---
 
-I work at the intersection of **maritime operations**, **cybersecurity**, **AI engineering**, and **plant science**, four disciplines that compound into one focus: building digital infrastructure for high-stakes African industries.
+## About Me
 
-As **IT Lead and Company Security Officer at Jetense Consultants Limited**, I own cyber risk management, cybersecurity governance, and digital transformation across an offshore fleet in the Gulf of Guinea. As an **MSc researcher at MOUAU**, I'm first author on three 2026 papers in plant genetics — morpho-chemical and pomological characterisation of Nigerian _Carica papaya_ accessions, and genetic variability for yield in _Amaranthus hybridus_. As a builder, I ship TypeScript MCP servers, autonomous agents, and M365-integrated systems from a mid-tier laptop with no GPU.
+I work at the intersection of maritime operations, cybersecurity, AI engineering, and plant science. My work focuses on building digital systems that improve operational security, resilience, and decision support in underserved sectors.
 
-The thread connecting it: **maritime cybersecurity infrastructure**, GRC, OT/IT convergence, and vessel cyber risk management for operators the industry has historically under-served.
+As IT Lead and Company Security Officer at Jetense Consultants Limited, I lead cyber risk management, governance, and digital transformation across offshore and fleet operations. I also build AI-native tooling, cybersecurity frameworks, and knowledge systems for maritime and research-focused environments.
+
+The common thread across my work is digital infrastructure for safety, resilience, and operational excellence.
 
 ---
 
-## Published Research
+## Research
 
-Lead author on three peer-reviewed papers (2026) from MSc work in Plant Breeding & Genetics at MOUAU — genetic characterisation of Nigerian crop germplasm for biofortification and yield improvement.
+Lead author on peer-reviewed work in plant breeding and genetics from MSc research at MOUAU.
 
-| Paper                                                                                                                                                              | Journal                                                       | Year |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------- | ---- |
-| Genetic Variability, Heritability, and Trait Associations for Yield Improvement in _Amaranthus hybridus_ (L.) Genotypes                                            | _Nigerian Journal of Horticultural Science_, 30(3)            | 2026 |
-| Characterization of Some Nigerian Pawpaw (_Carica papaya_ L.) Accessions Using Pomological Traits                                                                  | _Journal of Agriculture, Forestry and Fisheries_, 23(1), 1–10 | 2026 |
-| [Assessment of the Nutritional and Phytochemical Variability of Some Nigerian Pawpaw (_Carica papaya_ L.) Accessions](https://doi.org/10.82552/njhs.v30i1.158-171) | _Nigerian Journal of Horticultural Science_, 30(1), 158–171   | 2026 |
-
-> All three: **Uduma K. C.**, Edugbo R. E., Nwofia G. E. · 60 pawpaw accessions across Abia, Imo & Rivers States · Biochemical heritability (Vitamin C, β-Carotene, Zinc) h² ≥ 90%
+- Genetic Variability, Heritability, and Trait Associations for Yield Improvement in Amaranthus hybridus (L.) Genotypes
+- Characterization of Some Nigerian Pawpaw (Carica papaya L.) Accessions Using Pomological Traits
+- Assessment of the Nutritional and Phytochemical Variability of Some Nigerian Pawpaw (Carica papaya L.) Accessions
 
 **ORCID:** [0000-0002-7091-8832](https://orcid.org/0000-0002-7091-8832)
 
 ---
 
-## What I Build
+## Core Focus Areas
 
-| Repo                                                                          | What's Inside                                                                                                                                                                                                       |
-| ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ism-cyber-crosswalk](https://github.com/kelvinuduma/ism-cyber-crosswalk)     | **[Live tool »](https://kelvinuduma.github.io/ism-cyber-crosswalk/)** — 21 NIST CSF 2.0 subcategories mapped to ISM Code sections, IMO MSC.428(98) and MSC-FAL.1/Circ.3/Rev.3; gaps flagged, not smoothed over. MIT |
-| [microsoft-graph-mcp](https://github.com/kelvinuduma/microsoft-graph-mcp)     | 20-tool TypeScript Model Context Protocol (MCP) server for MS Graph — Outlook, Calendar, OneDrive, Teams, SharePoint                                                                                                |
-| [kelvinuduma.github.io](https://github.com/kelvinuduma/kelvinuduma.github.io) | Personal portfolio site — maritime cybersecurity, GRC & AI engineering                                                                                                                                              |
+### Maritime Cybersecurity
+- [ism-cyber-crosswalk](https://github.com/kelvinuduma/ism-cyber-crosswalk)
+- [maritime-cyber-intel](https://github.com/kelvinuduma/maritime-cyber-intel)
+- [cyber-mastery](https://github.com/kelvinuduma/cyber-mastery)
+- [personal-security-roadmap](https://github.com/kelvinuduma/personal-security-roadmap)
+
+### AI & Agent Engineering
+- [github-agent](https://github.com/kelvinuduma/github-agent)
+- [microsoft-graph-mcp](https://github.com/kelvinuduma/microsoft-graph-mcp)
+- [GenAI_Agents](https://github.com/kelvinuduma/GenAI_Agents)
+- [ai-agents-for-beginners](https://github.com/kelvinuduma/ai-agents-for-beginners)
+- [Anthropic-Cybersecurity-Skills](https://github.com/kelvinuduma/Anthropic-Cybersecurity-Skills)
+
+### Learning & Research
+- [Prompt-Engineering-Guide](https://github.com/kelvinuduma/Prompt-Engineering-Guide)
+- [llm-course](https://github.com/kelvinuduma/llm-course)
+- [Security-101](https://github.com/kelvinuduma/Security-101)
+- [ML-For-Beginners](https://github.com/kelvinuduma/ML-For-Beginners)
+
+### Data & Analytics
+- [academic-data-science](https://github.com/kelvinuduma/academic-data-science)
+- [r-analytics-portfolio](https://github.com/kelvinuduma/r-analytics-portfolio)
+- [colab-notebooks](https://github.com/kelvinuduma/colab-notebooks)
 
 ---
 
 ## Tech Stack
 
-**Languages:** `Python` &nbsp;`R` &nbsp;`TypeScript` &nbsp;`SQL`
+**Languages:** Python, R, TypeScript, SQL, Markdown
 
-**Data & Analysis:** `Power BI` &nbsp;`SPSS` &nbsp;`GenStat` &nbsp;`SAS` &nbsp;`PyTorch`
+**Data & Analysis:** Power BI, SPSS, GenStat, SAS, PyTorch, pandas, scikit-learn
 
-**Platforms & APIs:** `Microsoft Graph API` &nbsp;`M365` &nbsp;`SharePoint` &nbsp;`MCP` &nbsp;`Docker` &nbsp;`WSL2`
+**Platforms & APIs:** Microsoft Graph API, Microsoft 365, SharePoint, MCP, Docker, WSL2
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=kelvinuduma&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="160">
-  &nbsp;
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=kelvinuduma&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" height="160">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=kelvinuduma&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=kelvinuduma&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
 
 ## Recognition
 
-| Credential                                         | Issuer                                   |
-| -------------------------------------------------- | ---------------------------------------- |
-| Certified in Cybersecurity (CC)                    | ISC²                                     |
-| Company Security Officer (ISPS)                    | Charkin Maritime                         |
-| WEF Global Shaper — Alumnus (ex-Vice Curator)      | World Economic Forum — Port Harcourt Hub |
-| Climate Reality Leader                             | The Climate Reality Project              |
-| NextGeneration Food Hero                           | CropLife International, 2022             |
-| BSc Agronomy — Second Class Upper (4.32/5.00 CGPA) | MOUAU, 2018                              |
-| Vector Institute Scholar                           | ML for Black & Indigenous Students       |
+- Certified in Cybersecurity (CC) — ISC²
+- Company Security Officer (ISPS) — Charkin Maritime
+- WEF Global Shaper (Alumnus) — World Economic Forum
+- Climate Reality Leader — The Climate Reality Project
+- NextGeneration Food Hero — CropLife International
+- BSc Agronomy — MOUAU
 
 ---
 
 ## Currently Working On
 
-- Extending the [ISM ↔ NIST CSF crosswalk](https://github.com/kelvinuduma/ism-cyber-crosswalk) to BIMCO 5th ed, IACS UR E26/E27, and OCIMF TMSA3 / SIRE 2.0
-- A self-assessment / gap-scoring mode on top of the crosswalk dataset
-- AI-native systems for African maritime infrastructure — MCP servers and agent tooling on constrained hardware
+- Extending the ISM ↔ NIST CSF crosswalk to BIMCO 5th edition and relevant maritime cyber frameworks
+- Building self-assessment and gap-scoring capabilities for maritime cybersecurity frameworks
+- Developing AI-native systems for African maritime and operational infrastructure
+- Improving automation and knowledge capture around cybersecurity operations
+
+---
+
+## Collaboration
+
+Open to:
+- Maritime cybersecurity research partnerships
+- AI engineering collaborations
+- Operational technology and governance projects
+- Mentorship and knowledge-sharing initiatives
+
+---
+
+## Contact
+
+- LinkedIn: [kelvinuduma](https://www.linkedin.com/in/kelvinuduma/)
+- Portfolio: [kelvinuduma.github.io](https://kelvinuduma.github.io)
+- Email: [kelvinuduma@gmail.com](mailto:kelvinuduma@gmail.com)
 
 ---
 
 <div align="center">
-  <sub>📍 Port Harcourt, Nigeria &nbsp;·&nbsp; Open to research collaboration and AI partnerships</sub><br>
-  <sub>📧 kelvinuduma@gmail.com</sub>
+  <sub>📍 Port Harcourt, Nigeria · Open to research collaboration and AI partnerships</sub>
 </div>
