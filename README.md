@@ -4,6 +4,8 @@
 
 <strong>Maritime Cybersecurity · GRC · Applied AI</strong>
 
+**IT Lead & Technical Executive Assistant** · Jetense Consultants Limited
+
 Port Harcourt, Nigeria · WAT (UTC+1)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvinuduma/)
@@ -19,7 +21,7 @@ I build practical maritime cybersecurity and GRC tools for vessel operators and 
 
 Current public work: an ISM ↔ NIST CSF crosswalk and a TypeScript MCP server for Microsoft 365 workflows.
 
-As a maritime IT lead and Company Security Officer (ISPS), I focus on cyber risk management, security governance, and operational resilience across vessel and offshore operations. I also build open-source tools, framework crosswalks, and workflow automation for maritime environments.
+As IT Lead & Technical Executive Assistant (and ISPS Company Security Officer), I focus on cyber risk management, security governance, and operational resilience across vessel and offshore operations. I also build open-source tools, framework crosswalks, and workflow automation for maritime environments.
 
 ---
 
@@ -53,6 +55,8 @@ Lead author on peer-reviewed plant breeding and genetics research from MSc studi
 | :--- | :--- |
 | **Certified in Cybersecurity (CC)** | ISC² |
 | **Company Security Officer (ISPS)** | Charkin Maritime Academy |
+| **MSc Plant Breeding & Genetics** | MOUAU — Thesis defended Oct 2026 |
+| **Vector Institute Scholar** | ML for Black & Indigenous Students |
 | **WEF Global Shaper (Alumnus)** | World Economic Forum (Port Harcourt Hub) |
 | **Climate Reality Leader** | The Climate Reality Project |
 | **NextGeneration Food Hero** | CropLife International |
@@ -64,7 +68,7 @@ Lead author on peer-reviewed plant breeding and genetics research from MSc studi
 
 - **Standards & Frameworks:** NIST CSF 2.0, IMO MSC.428(98), IMO MSC-FAL.1/Circ.3/Rev.3, ISM Code, ISPS Code, BIMCO Cyber Guidelines (5th Ed)
 - **Languages:** TypeScript, Python, R, SQL, Bash
-- **Platforms & APIs:** Microsoft Graph API, Model Context Protocol (MCP), Docker, Linux / WSL2
+- **Platforms & APIs:** Microsoft Graph API, Model Context Protocol (MCP), Docker, Linux
 
 ---
 
@@ -82,6 +86,7 @@ Open to maritime cybersecurity research partnerships, technical advisory, and GR
 
 - **LinkedIn:** [kelvinuduma](https://www.linkedin.com/in/kelvinuduma/)
 - **Portfolio:** [kelvinuduma.github.io](https://kelvinuduma.github.io)
+- **ORCID:** [0000-0002-7091-8832](https://orcid.org/0000-0002-7091-8832)
 - **Email:** [kelvinuduma@gmail.com](mailto:kelvinuduma@gmail.com)
 
 <div align="center">
